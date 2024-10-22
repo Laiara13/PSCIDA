@@ -1,0 +1,172 @@
+/* JOGO 01 */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+/* GERAL */
+.gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .raleway {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+  .baloo-2 {
+    font-family: "Baloo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    /* backface-visibility: visible; */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  /* GERAL */
+  
+  /* HEADER */
+  
+  header {
+    width: 98vw;
+    height: 15vh;
+    display: flex;
+    font-weight: 700;
+    /* background-color: #dac8b3; */
+    position: relative;
+  }
+  
+.title{
+    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    font-size: 3vw;
+    place-content: center;
+
+
+}
+.subtitle{
+    width: 100vw;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    place-content: center;
+}
+  /* HEADER */
+
+.background{
+    position: absolute;  
+    display: flex;  
+
+}
+
+
+
+/* CONTAINER PRINCIPAL */
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    /* background-color: #f0f0f0; */
+    background-image: url('img/Background Games.png');
+
+
+
+}
+
+
+
+
+
+
+.jogo-da-memoria1 {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-gap: 10px;
+}
+.jogo-da-memoria {
+    display: grid;
+    grid-template-columns: repeat(6, 100px);
+    grid-gap: 10px;
+}
+.jogo-da-memoria0 {
+  display: grid;
+  grid-template-columns: repeat(10, 100px);
+  grid-gap: 10px;
+}
+.card {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    transform: scale(1);
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+}
+.card.flip {
+    transform: rotateY(180deg);
+}
+.card .frente, .card .tras {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.frente {
+    background-color: #efefef;
+    color: #000000;
+    transform: rotateY(180deg);
+    border: 2px solid #cccccc;
+}
+.tras {
+    background-color: #9880C1;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+/* JOGO 02 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

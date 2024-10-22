@@ -1,0 +1,302 @@
+/* PARTE DA APRESENTAÇÃO */
+
+/* GERAL */
+.gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .raleway {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+  .baloo-2 {
+    font-family: "Baloo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #000;
+    background-color: #ECFFFF;
+  }
+  /* GERAL */
+  
+  /* HEADER */
+  
+  header {
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    font-weight: 700;
+    /* background-color: #dac8b3; */
+  }
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 3vw;
+    margin-right: 7vw;
+}
+  
+  .head {
+    color: #000;
+    font-size: 1.5vw;
+    margin-left: 3vw;
+    display: inline-flex;
+    align-items: center;
+}
+.heade{
+    font-family: "Raleway";
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+    height: 15vh;
+}
+#input-flex {
+    width: 20vw;
+    height: 5vh;
+    outline: none;
+    border: 2px #000 solid;
+    border-radius: 10px;
+    background-color: #9ACEFF;
+    margin-left: 0.3vw;
+
+}
+
+#input-flex::placeholder{
+    /* border-radius: 10%; */
+    color: #000000;
+    font-family: "Raleway";
+    font-size: 1rem;
+    display: flex;
+    
+}
+
+
+#pesquisar{
+    margin-left: 20vw;
+    height: 5vh;
+
+}
+
+  /* HEADER */
+  
+  /* MAIN */
+  
+  .containerhome {
+    background: aqua;
+    height: 45vh;
+    text-align: center;
+  }
+
+    
+  .main {
+    /* background: antiquewhite; */
+    width: 100vw;
+    height: 85vh;
+    /* display: flex; */
+    /* margin-bottom: 10vh; */
+  }
+
+
+  
+  /* .main {
+    background: blueviolet;
+    width: 100vw;
+    height: 70vh;
+  }
+   */
+  .titulo {
+    font-size: 8vw;
+    font-family: "Gochi Hand", cursive;
+    font-weight: 100;
+  }
+  
+  .text {
+    margin-left: 15vw;
+    /* margin-top: 2vh; */
+  }
+  
+  .homeimage {
+    color: #000;
+    display: flex;
+    width: 25vw;
+    float: right;
+    margin-right: 20vw;
+  }
+  
+  .home {
+    display: flex;
+    max-width: 25vw;
+  }
+  
+  .sobre {
+    font-family: "Baloo 2";
+    margin-top: 2vh;
+    font-size: 2.5vw;
+    width: 25vw;
+  }
+  
+  .p {
+    display: inline-flex;
+    font-family: "Baloo 2";
+    width: 26vw;
+    font-size: 1.3vw;
+    text-align: justify;
+    margin-top: 7vh;
+  }
+  
+  .baixo {
+    color: #000;
+  }
+  
+  /* PARTIDA */
+  
+ 
+  
+  .partida {
+    display: flex;
+    /* margin-left: 15vw; */
+    margin-top: 4vh;
+    width: 25vw;
+  }
+  
+  .frase {
+    background-color: #332623;
+    font-family: "Baloo 2", sans-serif;
+    color: #fff;
+    width: 16vw;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1.5vw;
+  }
+  
+  /* PARTIDA */
+  
+  /* MAIN */
+  
+  /* PARTE COM BOOTSTRAP */
+
+  /* AA */
+
+
+
+
+
+
+
+
+
+  /* CONTAINERS DE CADA JOGO */
+
+
+/* background-color: #000; */
+/* .background-card{
+width: 30vw;
+border-radius: 10%;
+  
+}
+  .card{
+    margin: 5vh;
+    border: 2px #C3C9FF solid;
+    border-radius: 10%;
+    outline: none;
+    height: 40vw;
+    background-color: #E2E5FF;
+  }
+  .card-img-top{
+    border-radius: 10%;
+    width: 20vw;
+    display: flex;
+    place-self: center;
+    margin-top: 2vh;
+  }
+  .card-title{
+    margin-top: 1vh;
+    display:grid;
+    text-align: center;
+  }
+  .card-text{
+    color: #000;
+    margin-top: 1vh;
+
+  } */
+
+  .background-card {
+    width: 100%;
+    border-radius: 10%;
+}
+
+.card {
+    margin: 5vh;
+    border: 4px #C3C9FF solid;
+    border-radius: 10%;
+    outline: none;
+    height: 100%;
+    background-color: #E2E5FF;
+}
+
+.card-img-top {
+    border-radius: 10%;
+    width: 100%;
+    display: flex;
+    place-self: center;
+    margin-top: 2vh;
+}
+
+.card-title {
+    margin-top: 1vh;
+    display: grid;
+    text-align: center;
+    text-decoration: none;
+    background-color: #E2E5FF;
+
+}
+.card-title1 {
+  margin-top: 1vh;
+  display: grid;
+  text-align: center;
+  background-color: #E2E5FF;
+
+}
+.card-text {
+    color: #000;
+    margin-top: 1vh;
+    background-color: #E2E5FF;
+
+}
+.card-body{
+  height: 45vh;
+  border-radius: 0 0 21% 21%;
+  background-color: #E2E5FF;
+}
+
+
+#jogotop{
+  /* margin-top: 1vh; */
+  display: grid;
+  text-align: center;
+  align-items: center;
+  font-weight:900;
+  font-size: 4vw;
+  color: #000;
+  text-decoration: none;
+}
+.jogotopp{
+  font-family: "Raleway";
+  color: #000;
+  text-decoration: none;
+  height: 7vh;
+}

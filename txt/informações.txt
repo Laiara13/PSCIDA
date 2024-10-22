@@ -1,0 +1,91 @@
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendendo a criar um site</title> <!-- Título da página-->
+    <meta name="author" content="Laiara Leizer"> <!-- Nome do autor vem aqui -->
+    <link rel="stylesheet" href="./css/style.css" /> <!-- Link do CSS -->
+    <link rel="shortcut icon" href="./img/jinx.jpg" type="image/x-icon" /> <!-- Foto do icone da página -->
+    <meta name="reply-to" content="O email para duvidas vem aqui">
+    <meta property="og:keywords" content="As palavras chave vem aqui" />
+    <meta property="og:title" content="H1 da página" />
+    <meta property="og:description" content="A descrição vem aqui" />
+    <meta property="og:type" content="website" />
+    <!-- <meta http-equiv="refresh" content="5 ;url=http://www.outrosite.com/">   -->
+
+    <!--Por exemplo, se você deseja redirecionar automaticamente os 
+      visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
+      após 5 segundos, você pode usar a seguinte meta tag:-->
+
+
+      acima geral. abaixo meu.
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aprendendo a criar um site</title> <!-- Título da página-->
+    <meta name="author" content="Laiara Leizer"> <!-- Nome do autor vem aqui -->
+    <link rel="stylesheet" href="./css/style.css" /> <!-- Link do CSS -->
+    <link rel="shortcut icon" href="./img/jinx.jpg" type="image/x-icon" /> <!-- Foto do icone da página -->
+    <meta name="reply-to" content="laiara-leizer@educar.rs.gov.br">
+    <meta property="og:keywords" content="As palavras chave vem aqui" />
+    <meta property="og:title" content="H1 da página" />
+    <meta property="og:description" content="A descrição vem aqui" />
+    <meta property="og:type" content="website" />
+    <!-- <meta http-equiv="refresh" content="5 ;url=http://www.outrosite.com/">   -->
+
+    <!--Por exemplo, se você deseja redirecionar automaticamente os 
+      visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
+      após 5 segundos, você pode usar a seguinte meta tag:-->
+
+
+
+
+      echo "# TDhoradeaprender" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Laiara13/TDhoradeaprender.git
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/Laiara13/TDhoradeaprender.git
+
+git commit -m "versao 15 03 24"
+git branch -M main
+git push -u origin main
+
+
+https://github.com/Laiara13/TDhoradeaprender
+
+
+
+
+
+
+
+
+
+  <!-- <meta http-equiv="refresh" content="5 ;url=http://www.outrosite.com/">   -->
+
+    <!-- Por exemplo, se você deseja redirecionar automaticamente os 
+      visitantes da página HTMl atual para a URL http://www.outrosite.com/ 
+      após 5 segundos, você pode usar a seguinte meta tag: -->
+
+
+
+
+
+
+
+
+
+      https://www.figma.com/files/project/64645448/Sites?fuid=1121805455706310321
+      https://www.figma.com/file/83gxahVVDjkIi98lPRkFOi/Meu-TCC?type=design&node-id=75-304&mode=design&t=S0kS3wvU3luhlF8X-0
+
+      file:///C:/Users/Micro04/Desktop/TDhoradeaprender/index.html
+
+      https://pt.stackoverflow.com/questions/91606/colocar-texto-ao-lado-de-imagem
+
+      https://github.com/Laiara13/TDhoradeaprender
+      

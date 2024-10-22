@@ -1,0 +1,30 @@
+{
+  "name": "psicda",
+  "version": "0.1.0",
+  "description": "Site feito para o Trabalho de Conclusão de curso da minha escola.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "name": "psicda",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laiara-Leizer/PSICDA.git"
+  },
+  "keywords": [
+    "TDAH",
+    "Educação",
+    "Site"
+  ],
+  "author": "Laiara Leizer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laiara-Leizer/PSICDA/issues"
+  },
+  "homepage": "https://github.com/Laiara-Leizer/PSICDA#readme"
+}
